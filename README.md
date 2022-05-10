@@ -34,7 +34,7 @@
 <br>
 <br/>
 
-<p align="center">
+<p>
   <img  src="https://github-readme-stats.vercel.app/api?username=bdimoski&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="bdimoski" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdimoski&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="bdimoski"  />
 </p>
