@@ -7,9 +7,9 @@
 ## 🙋‍♂️ About Me
 - 🔭 Currently enrolled at SMX Academy for **Full Stack Development**
 
-- 👨‍💻 I’ve studied **HTML, CSS, JavaScript and Python**
+- 👨‍💻 My stack includes **HTML/CSS, JavaScript and Python**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 Broadening my knowledge in **React.js**
 
 - 👯 I’m looking to collaborate on **open projects**
 
