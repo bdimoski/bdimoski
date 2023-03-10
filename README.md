@@ -8,7 +8,7 @@
 
 - 👨‍💻 My stack includes **HTML/CSS, JavaScript, React.js, Node.js and Python**
 
-- 🌱 Broadening my knowledge in **Python**
+- 🌱 Broadening my knowledge in **Three.js**
 
 - 👯 I’m looking to collaborate on **open projects**
 
