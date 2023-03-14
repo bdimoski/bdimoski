@@ -4,7 +4,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 Currently honing my skills in Full Stack Development **Full Stack Development**
+- 🔭 Currently honing my skills in **Full Stack Development**
 
 - 👨‍💻 My stack includes **HTML/CSS, JavaScript, React.js, Node.js and Python**
 
