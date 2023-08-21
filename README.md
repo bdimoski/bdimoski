@@ -6,9 +6,9 @@
 ## 🙋‍♂️ About Me
 - 🔭 Currently honing my skills in **Full Stack Development**
 
-- 👨‍💻 My stack includes **HTML/CSS, JavaScript, React.js, Node.js and Python**
+- 👨‍💻 My stack includes **HTML/CSS, JavaScript, React.js, Node.js, Wordpress and Elementor**
 
-- 🌱 Broadening my knowledge in **Three.js**
+- 🌱 Broadening my knowledge in **Next.js**
 
 - 👯 I’m looking to collaborate on **open projects**
 
