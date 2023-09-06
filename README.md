@@ -24,7 +24,8 @@
   <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
   <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40" height="50" />
   <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="50"/>
-  <img align="left" height="50" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="react" width="40" height="50"/>
+  <img align="left" height="50" src="https://ghost.teacode.io/content/images/2021/10/174504271_135470751881682_8455879154013993434_n--1-.png" alt="next.js" width="40" height="50"/>
+  <img align="left" height="50" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="sanity" width="40" height="50"/>
   <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="50" />
   <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="50" /> 
   <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="40" height="50" />
