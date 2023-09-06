@@ -17,7 +17,7 @@
 
 
 ## ⚒&nbsp;&nbsp;&nbsp;**Languages and Tools:**
-<div style="display: flex; justify-content:center;">
+<div>
   <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> 
   <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="50"/>
   <img align="left" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="50"/> 
