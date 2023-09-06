@@ -17,14 +17,18 @@
 
 
 ## ⚒&nbsp;&nbsp;&nbsp;**Languages and Tools:**
-<div style="display: inline_block"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="50"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img align="left" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-<img align="left" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+<div style="display: inline_block">
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> 
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="50"/>
+  <img align="left" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="50"/> 
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
+  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40" height="50" />
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="50"/>
+  <img align="left" height="50" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="react" width="40" height="50"/>
+  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="50" />
+  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="50" /> 
+  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" width="40" height="50" />
+  <img align="left" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wordpress_tile_logo_icon_168757.png" alt="Express.js" width="40" height="50" />
 <br>
 </div>
 <br>
