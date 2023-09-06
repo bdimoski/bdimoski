@@ -24,7 +24,7 @@
   <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
   <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40" height="50" />
   <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="50"/>
-  <img align="left" height="50" src="https://velog.velcdn.com/images/jinyoung985/post/8336b807-cdd8-440c-9ef3-243d8bbe1aaf/image.png" alt="next.js" width="40" height="50"/>
+  <img align="left" height="50" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" alt="next.js" width="40" height="50"/>
   <img align="left" height="50" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="sanity" width="40" height="50"/>
   <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="50" />
   <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="50" /> 
