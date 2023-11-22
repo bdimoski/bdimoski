@@ -46,7 +46,17 @@
 <br/>
 
 <p>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=bdimoski&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="bdimoski" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bdimoski&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=bdimoski&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bdimoski&show_icons=true" />
+</picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bdimoski&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="bdimoski"  />
 </p>
 <br/>
