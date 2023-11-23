@@ -8,7 +8,7 @@
 
 - 👨‍💻 My stack includes **HTML5/CSS3, JavaScript, TypeScript, React.js, Next.js, Node.js, Sanity, Wordpress and Elementor**
 
-- 🌱 Broadening my knowledge in **GSAP**
+- 🌱 Broadening my knowledge in **GSAP** and **THREE.JS**
 
 - 👯 I’m looking to collaborate on **open projects**
 
