@@ -18,18 +18,18 @@
 
 ## ⚒&nbsp;&nbsp;&nbsp;**Languages and Tools:**
 <div>
-  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="50"/> 
-  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="50"/>
-  <img align="left" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="50"/> 
-  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
-  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40" height="50" />
-  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="50"/>
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="50"/> 
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="50"/>
+  <img align="left" height="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="50"/> 
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="50"/> 
+  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="45" height="50" />
+  <img align="left" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="50"/>
   <img align="left" height="50" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" alt="next.js" width="50" height="50"/>
-  <img align="left" height="50" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="sanity" width="40" height="50"/>
-  <img align="left" height="50" src="https://user-images.githubusercontent.com/20521233/211317386-5aa4b06b-00d3-4b43-bc0e-57f9f6d4e74b.svg" alt="Node.js" width="40" height="50" />
-  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="50" /> 
-  <img align="left" height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" width="40" height="50" />
-  <img align="left" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wordpress_tile_logo_icon_168757.png" alt="Express.js" width="40" height="50" />
+  <img align="left" height="50" src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="sanity" width="45" height="50"/>
+  <img align="left" height="50" src="https://user-images.githubusercontent.com/20521233/211317386-5aa4b06b-00d3-4b43-bc0e-57f9f6d4e74b.svg" alt="Node.js" width="45" height="50" />
+  <img align="left" height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="50" /> 
+  <img align="left" height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" width="45" height="50" />
+  <img align="left" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wordpress_tile_logo_icon_168757.png" alt="Express.js" width="45" height="50" />
 <br>
 </div>
 <br>
