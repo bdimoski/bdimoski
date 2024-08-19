@@ -6,9 +6,9 @@
 ## 🙋‍♂️ About Me
 - 🔭 Currently honing my skills in **Full Stack Development**
 
-- 👨‍💻 My stack includes **HTML5/CSS3, JavaScript, TypeScript, React.js, Next.js, Node.js, Sanity, Wordpress and Elementor**
+- 👨‍💻 My stack includes **HTML5/CSS3, JavaScript, TypeScript, React.js, Next.js, Node.js, Sanity, GSAP, Three.js and Sentry**
 
-- 🌱 Broadening my knowledge in **GSAP** and **THREE.JS**
+- 🌱 Broadening my knowledge in **React Native**
 
 - 👯 I’m looking to collaborate on **open projects**
 
