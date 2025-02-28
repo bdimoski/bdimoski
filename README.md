@@ -22,7 +22,6 @@ I'm a passionate full stack developer specializing in building efficient web app
   <img src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="Sanity" width="45" height="50"/>
   <img src="https://user-images.githubusercontent.com/20521233/211317386-5aa4b06b-00d3-4b43-bc0e-57f9f6d4e74b.svg" alt="Node.js" width="45" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" width="45" height="50" /> 
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" width="45" height="50" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wordpress_tile_logo_icon_168757.png" alt="WordPress" width="45" height="50" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="Postgres" width="45" height="50" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" alt="Redis" width="50" />
