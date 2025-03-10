@@ -5,9 +5,13 @@
 I'm a passionate full stack developer specializing in building efficient web applications and scalable systems. Currently, I'm furthering my expertise in various modern technologies while exploring new advancements in the industry. I love collaborating on open-source projects and sharing my knowledge with the community.
 
  🔭 **Current Focus:** Elevating my skills in Full Stack Development.
+
  👨‍💻 **My Stack:** HTML5/CSS3, JavaScript, TypeScript, React.js, Next.js, Node.js, Sanity, GSAP, Three.js, Sentry, Shadcn, Neon, Postgres, Auth.js, Redis, Drizzle, Upstash.
+
  🌱 **Learning:** Enhancing my expertise in React Native.
+
  👯 **Collaborations:** Open for collaboration on exciting new projects.
+
  📫 **Get in touch:** bdimosky35@gmail.com
 
 ## ⚒ Languages and Tools
