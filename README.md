@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/mytnRrt/header.gif">
+</div>
+
 <h1 align="center">Hi there 👋, I'm Bojan</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
@@ -62,3 +66,8 @@ I'm a passionate full stack developer specializing in building efficient web app
 <a href="https://github.com/bdimoski?tab=followers">
     <img src="https://img.shields.io/github/followers/bdimoski?label=Followers&style=social" alt="GitHub Followers"/>
 </a>
+<br/>
+<div align="center">
+ <br/>
+  <img src="https://i.ibb.co/XYSXd3j/footer.gif">
+</div>
